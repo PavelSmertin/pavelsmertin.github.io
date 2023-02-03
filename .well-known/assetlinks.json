@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "ru.yandex.mobile.drivematics.rental.inhouse",
+    "package_name": "com.vlootkit.rental",
     "sha256_cert_fingerprints":
-    ["1D:A9:CB:AE:2D:CC:C6:A5:8D:6C:94:7B:E9:4C:DB:B7:33:D6:5D:A4:D1:77:0F:A1:4A:53:64:CB:4A:28:EB:49"]
+    ["2D:17:14:4B:8F:4F:F6:5E:83:EA:FB:D6:76:65:CB:4C:BE:EB:77:2A:D1:F1:9D:82:CB:7C:6E:DF:CD:1B:1A:EC"]
   }
 }]
