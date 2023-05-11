@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.vlootkit.rental",
-    "sha256_cert_fingerprints":
-    ["2D:17:14:4B:8F:4F:F6:5E:83:EA:FB:D6:76:65:CB:4C:BE:EB:77:2A:D1:F1:9D:82:CB:7C:6E:DF:CD:1B:1A:EC"]
-  }
-}]
